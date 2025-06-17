@@ -1,0 +1,2 @@
+The file 'bfs_regression.py' is designed for identifing important attributes for predicting BFS values.
+The file 'bfs_regression_simple.py' is designed for predicting BFS values through practically measurable attributes of ECHOvelocity and Echo_diameter.
